@@ -1,0 +1,148 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+
+body{
+   background-color: #d9d9d9;
+}
+
+.cotainer{
+   height: 100vh;
+}
+
+.header{
+   position: relative;
+   
+   }
+   .pugal{
+      background-color: #3275c5;
+      position: fixed;
+      text-align: right;
+      padding: 20px;
+      width: 98%;
+      word-spacing: 70px;
+      font-weight:bolder;
+      font-size: larger;
+   }
+
+   
+   .home1 img{
+         margin-top: 10%;
+         margin-left:90%;
+    }
+  
+
+ .header a{
+   color: rgb(16, 9, 9);
+   text-decoration: none;
+}
+
+
+.main1{
+   font-size: 40px;
+   position: absolute;
+   top: 40%;
+   left: 20%;
+}
+
+
+.main2{
+   font-size: 40px;
+   position: absolute;
+   top: 47%;
+   left: 20%;
+}
+
+
+
+
+/*about*/
+
+.cotainerabout{
+      height: 100vh;
+}
+
+.about img{
+   position: absolute;
+   right: 0%;
+   width: 515px;
+   height: 798px;
+   top: 940px;
+}
+
+
+.about h2{
+padding-left: 4%;
+color: #3275c5;
+padding-top: 8%;
+font-size: 40px;
+}
+.about h3{
+   padding-left: 4%;
+   padding-top: 3%;
+   font-size: 2em;
+}
+
+
+
+
+
+/*skill*/
+
+.cotainerskill{
+   height: 100vh;
+}
+.skill{
+   height: 100vh;
+   width: 100vh;
+}
+
+h2{
+   padding-left: 4%;
+   padding-top: 8%;
+   color: #3275c5;
+   font-size: 40px;
+}
+.img1{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   text-align: center;
+   margin: 40px;
+ }
+ .img1 img{
+   width: 400px;
+   height: 400px;
+ }
+
+ .img1 p{
+   font-size:1.5em
+ }
+
+
+
+
+
+
+/*contact*/
+
+.cotainercontact{
+   width: 100vh;
+   height: 100vh;
+}
+#contact h2{
+   padding-left: 5%;
+   padding-top:20%;
+   font-size: 40px;
+   color: #3275c5;
+}
+#contact h3{
+   padding-left: 8%;
+   padding-top: 3%;
+   font-size:1.5em ;
+}
+
+
+
+ 
