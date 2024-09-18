@@ -12,6 +12,7 @@ body{
 }
 
 .header{
+   z-index: 4;
    position: relative;
    
    }
